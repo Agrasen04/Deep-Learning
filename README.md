@@ -99,8 +99,4 @@ X_test_pca = pca.transform(X_test)
 - Integrate real-time prediction interface with UI.
 - Study sensitivity of predictions to PCA dimensions.
 
----
 
-## 🔗 GitHub Repository
-
-[Click here to view the code](https://github.com/Souhardya05/ME504_Project/tree/main)
